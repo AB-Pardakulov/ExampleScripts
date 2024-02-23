@@ -1,0 +1,1 @@
+Apart from a few select python scripts, most of these scripts cannot be readily executed as they are lacking dependencies/outside of their software environment and/or need to be built.
